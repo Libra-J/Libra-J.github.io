@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-chirpy"
   spec.version       = "4.0.2"
-  spec.authors       = ["Cotes Chung"]
+  spec.authors       = ["Libra-J"]
   spec.email         = ["cotes.chung@gmail.com"]
 
   spec.summary       = "Chirpy is a minimal, sidebar, responsive web design Jekyll theme that focuses on text presentation."
